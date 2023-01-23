@@ -70,7 +70,7 @@ opcionais
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="rocketmovies" title="#rocketmovies" src=".github/foodexplorer.gif" width="100%">
+  <img alt="rocketmovies" title="#rocketmovies" src="https://ik.imagekit.io/atnyozbx9v/Capturar3_nT8gZVSdF.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1674225530559" width="100%">
 
 </p>
 
